@@ -11,5 +11,7 @@
     "**/node_modules": true
   },
   "editor.rulers": [125],
-  "omnisharp.organizeImportsOnFormat": true
+  "omnisharp.organizeImportsOnFormat": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true
 }
