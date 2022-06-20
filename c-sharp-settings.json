@@ -11,6 +11,5 @@
     "**/node_modules": true
   },
   "editor.rulers": [125],
-  "omnisharp.enableImportCompletion": true,
   "omnisharp.organizeImportsOnFormat": true
 }
